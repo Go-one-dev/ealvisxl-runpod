@@ -1,0 +1,2 @@
+name: realvisxl-endpoint
+entrypoint: handler.py
